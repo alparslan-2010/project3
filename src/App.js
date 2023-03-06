@@ -4,8 +4,7 @@ import Navbar from "./component/navbar"
 import Hero from "./component/hero"
 import Card from "./component/Card"
 import data from "./data";
-import Hero2 from "./component//Hero2"
-import Navbar2 from './component/navbar2';
+
 
 function App() {
 
